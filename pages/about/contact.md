@@ -1,6 +1,6 @@
 ---
 layout: people
-title: About
+title: "About"
 permalink: contact.html
 ---
 
