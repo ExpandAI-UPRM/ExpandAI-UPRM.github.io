@@ -1,13 +1,13 @@
 ---
 layout: people
 title: About
-permalink: contact.html
+permalink: team_PIs.html
 ---
 
 
 # Email Contact
 
-[uscms-dei@cern.ch](mailto:uscms-dei@cern.ch)
+[sudhir.malik@upr.edu](mailto:sudhir.malik@upr.edu)
 
 {% assign members = site.data.people | values
                                      | where_exp:"item", "item.active and item.hidden != true"
