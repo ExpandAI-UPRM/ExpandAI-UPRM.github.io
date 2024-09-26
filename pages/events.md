@@ -1,10 +1,10 @@
 ---
 permalink: /events.html
 layout: default
-title: U.S. CMS DEI Events
+title: Expand AI Events
 ---
 <center>
-<h3>  U.S. CMS Diversity, Equity & Inclusion Events</h3>
+<h3>  Expand AI Events</h3>
 </center>
 
 <br>
