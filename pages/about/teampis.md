@@ -34,6 +34,8 @@ permalink: /about/teampis.html
 <br>
 <hr>
 <br> 
+
+<!--
 # Past Members
 
 <div class="container-fluid">
@@ -52,3 +54,4 @@ permalink: /about/teampis.html
 ## Past Members
 
 For a list of the past members [click here]({% link pages/about/past_members.md %})
+-->
