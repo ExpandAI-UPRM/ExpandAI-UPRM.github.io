@@ -18,8 +18,9 @@ permalink: /about/teampis.html
                                           | where_exp:"item", "item.active == false and item.hidden != true"
                                           | sort: "title"
                                           | last_name_sort: "name" %}
--->
+
 # 
+-->
 
 <div class="container-fluid">
 <div class="row">
@@ -49,10 +50,11 @@ permalink: /about/teampis.html
 {% endcomment %}
 -->
 
+<!--
 <br>
 <hr>
 <br> 
-<!--
+
 ## Past Members
 
 For a list of the past members [click here]({% link pages/about/past_members.md %})
