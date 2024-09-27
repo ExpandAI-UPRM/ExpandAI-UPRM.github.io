@@ -4,7 +4,7 @@ title: About
 permalink: /about/teampis.html
 ---
 
-
+<--!
 # Email Contact
 
 [sudhir.malik@upr.edu](mailto:sudhir.malik@upr.edu)
@@ -18,7 +18,7 @@ permalink: /about/teampis.html
                                           | where_exp:"item", "item.active == false and item.hidden != true"
                                           | sort: "title"
                                           | last_name_sort: "name" %}
-
+-->
 # Present Members
 
 <div class="container-fluid">
