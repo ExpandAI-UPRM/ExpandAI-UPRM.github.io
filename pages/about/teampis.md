@@ -1,7 +1,7 @@
 ---
 layout: people
 title: About
-permalink: team_PIs.html
+permalink: teampis.html
 ---
 
 
