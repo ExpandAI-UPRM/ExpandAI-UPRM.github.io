@@ -1,7 +1,7 @@
 <div class="card" style="width: 12rem;"> 
  <img class="card-img-top" src="{{ include.person.photo }}" alt="Card image cap" style="width: 200%; height: auto;">
- <div class="card-body d-flex flex-column justify-content-center" style="width: 200%;" >
- <div class="card-text" text_align="center">
+ <div class="card-body d-flex flex-column" style="width: 200%;" >
+ <div class="card-text justify-content-center" >
  {% if include.person.website and include.person.website != blank %}
     <b><a href="{{ include.person.website }}">{{ include.person.name }}</a></b><br>
  {% else %}
