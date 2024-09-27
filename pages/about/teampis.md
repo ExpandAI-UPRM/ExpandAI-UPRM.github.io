@@ -29,13 +29,13 @@ permalink: /about/teampis.html
 </div>
 </div>
 
+<!--
 {% comment %}
 {% if past_members.size > 0 %}
 <br>
 <hr>
 <br> 
 
-<!--
 # Past Members
 
 <div class="container-fluid">
