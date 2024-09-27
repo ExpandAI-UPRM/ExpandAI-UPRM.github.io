@@ -47,10 +47,12 @@ permalink: /about/teampis.html
 </div>
 {% endif %}
 {% endcomment %}
+-->
 
 <br>
 <hr>
 <br> 
+<!--
 ## Past Members
 
 For a list of the past members [click here]({% link pages/about/past_members.md %})
