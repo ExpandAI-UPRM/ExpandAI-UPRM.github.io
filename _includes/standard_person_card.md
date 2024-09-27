@@ -1,4 +1,4 @@
-<div class="card" style="width: 20rem;"> 
+<div class="card" style="width: 12rem;"> 
 <!-- <div class="card" style="width: fit-content;"> -->
  <img class="card-img-top" src="{{ include.person.photo }}" alt="Card image cap" style="width: 200%; height: auto;">
  <div class="card-body d-flex flex-column">
