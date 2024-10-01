@@ -6,5 +6,9 @@ permalink: /about/outreach.html
 
 # Outreach
 
- - <h3>Open houses at UPRM </h3>
- - <h3>Outreach in PR high schools</h3>
+<p>
+<ul style="font-size: 30px;">
+ <li>Open houses at UPRM </li>
+ <li>Outreach in PR high schools </li>
+</ul>
+</p>
