@@ -1,3 +1,4 @@
+---
 layout: default
 title: students
 permalink: /about/students.html
