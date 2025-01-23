@@ -1,6 +1,6 @@
 ---
 layout: default
-title: reseacrh
+title: research
 permalink: /about/research.html
 ---
 
