@@ -6,5 +6,11 @@ permalink: /about/education.html
 
 # Education
 
- - <h3>ML courses in Engineering and Physics Graduate and undergraduate research </h3>
- - <h3>IAIFI Summer school, summer workshop</h3>
+<p>
+<ul style="font-size: 30px;">
+ <li>ML courses in Engineering and Physics Graduate and undergraduate research </li>
+ <li>IAIFI Summer school, summer workshop </li>
+</ul>
+</p>
+
+
