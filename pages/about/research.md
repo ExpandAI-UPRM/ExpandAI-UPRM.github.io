@@ -17,9 +17,15 @@ permalink: /about/research.html
 </p>
 # Publications
 <ul style="font-size: 20px;">
-- **MEDIC: a network for monitoring data quality in collider experiments**. in JINST, 21 (2026), P02053. DOI: 10.1088/1748-0221/21/02/P02053. by Juvenal Bassa, Arghya Chattopadhyay, Sudhir Malik and Mario Escabi Rivera 
-- **B-jet tagging using a hybrid edge convolution and transformer architecture** in JINST 21 P03019 DOI 10.1088/1748-0221/21/03/P03019 by Diego Vasquez and Vidya Manian (2026) 
-- **Jet image tagging using deep learning: an ensemble model** in 2025 JINST 20 P09032DOI 10.1088/1748-0221/20/09/P09032 by Juvenal Bassa, Vidya Manian, Sudhir Malik and Arghya Chattopadhyay 
-- **Early Parkinson’s Disease Prediction Using rS-fMRI Functional Connectivity and Autoencoder Graph Convolutional Network** in IEEE Access, vol. 13, pp. 178862-178875, 2025, doi: 10.1109/ACCESS.2025.3621150 by L. L. Limas and V. Manian
-- **Supervised Spatially Spectrally Coherent Local Linear Embedding WGCN (Wasserstein Graph Convolutional Network) Architecture for multi dimensional data embedding and classification** in IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING, VOL. 63, 2025 by Jairo Orozco,  Sergio Manzanare and Vidya Manian
+## Publications
+
+- **MEDIC: A Network for Monitoring Data Quality in Collider Experiments.** *JINST* **21** (2026), P02053. DOI: 10.1088/1748-0221/21/02/P02053. Juvenal Bassa, Arghya Chattopadhyay, Sudhir Malik, and Mario Escabi Rivera.
+
+- **B-jet Tagging Using a Hybrid Edge Convolution and Transformer Architecture.** *JINST* **21** (2026), P03019. DOI: 10.1088/1748-0221/21/03/P03019. Diego Vasquez and Vidya Manian.
+
+- **Jet Image Tagging Using Deep Learning: An Ensemble Model.** *JINST* **20** (2025), P09032. DOI: 10.1088/1748-0221/20/09/P09032. Juvenal Bassa, Vidya Manian, Sudhir Malik, and Arghya Chattopadhyay.
+
+- **Early Parkinson's Disease Prediction Using rS-fMRI Functional Connectivity and Autoencoder Graph Convolutional Network.** *IEEE Access*, **13**, 178862–178875 (2025). DOI: 10.1109/ACCESS.2025.3621150. L. L. Limas and V. Manian.
+
+- **Supervised Spatially Spectrally Coherent Local Linear Embedding WGCN (Wasserstein Graph Convolutional Network) Architecture for Multidimensional Data Embedding and Classification.** *IEEE Transactions on Geoscience and Remote Sensing*, **63** (2025). Jairo Orozco, Sergio Manzanare, and Vidya Manian.
 </ul>
