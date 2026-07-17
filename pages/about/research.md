@@ -17,8 +17,9 @@ permalink: /about/research.html
 </p>
 # Publications
 <ul style="font-size: 20px;">
+ </ul>
 ## Publications
-
+# Publications
 - **MEDIC: A Network for Monitoring Data Quality in Collider Experiments.** *JINST* **21** (2026), P02053. DOI: 10.1088/1748-0221/21/02/P02053. Juvenal Bassa, Arghya Chattopadhyay, Sudhir Malik, and Mario Escabi Rivera.
 
 - **B-jet Tagging Using a Hybrid Edge Convolution and Transformer Architecture.** *JINST* **21** (2026), P03019. DOI: 10.1088/1748-0221/21/03/P03019. Diego Vasquez and Vidya Manian.
@@ -28,4 +29,4 @@ permalink: /about/research.html
 - **Early Parkinson's Disease Prediction Using rS-fMRI Functional Connectivity and Autoencoder Graph Convolutional Network.** *IEEE Access*, **13**, 178862–178875 (2025). DOI: 10.1109/ACCESS.2025.3621150. L. L. Limas and V. Manian.
 
 - **Supervised Spatially Spectrally Coherent Local Linear Embedding WGCN (Wasserstein Graph Convolutional Network) Architecture for Multidimensional Data Embedding and Classification.** *IEEE Transactions on Geoscience and Remote Sensing*, **63** (2025). Jairo Orozco, Sergio Manzanare, and Vidya Manian.
-</ul>
+
