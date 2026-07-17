@@ -15,10 +15,7 @@ permalink: /about/research.html
  <li>Supervised Spatially Spectrally Coherent Local Linear Embedding WGCN (Wasserstein Graph Convolutional Network) Architecture for multi dimensional data embedding and classification </li>
 </ul>
 </p>
-# Publications
-<ul style="font-size: 20px;">
- </ul>
-## Publications
+
 # Publications
 - **MEDIC: A Network for Monitoring Data Quality in Collider Experiments.** *JINST* **21** (2026), P02053. DOI: 10.1088/1748-0221/21/02/P02053. Juvenal Bassa, Arghya Chattopadhyay, Sudhir Malik, and Mario Escabi Rivera.
 
